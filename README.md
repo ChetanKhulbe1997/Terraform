@@ -1,2 +1,2 @@
 # Terraform
-This is for managing Terraform remotely.
+This is my terraform learning journey.
